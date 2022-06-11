@@ -53,7 +53,7 @@ function App() {
       </nav>
       <main className="main">
         <section className="intro">
-          <h1>Tell the world your<br>One Mission</h1>
+          <h1>Tell the world your<br>One Mission</br></h1>
           <div className="intro-desc">
             <p>Everyone has a Mission they want to achieve and reach.</p>
             <div className="intro-buttons">
@@ -63,9 +63,9 @@ function App() {
           </div>
         </section>
         <section className="social-proof">
-          <img className="photo1" src="images/phonto1.JPG" alt="">
-          <img className="photo2" src="images/phonto2.PNG" alt="">
-          <img className="photo3" src="images/phonto3.PNG" alt="">
+          <img className="photo1" src="images/phonto1.JPG" alt=""/>
+          <img className="photo2" src="images/phonto2.PNG" alt=""/>
+          <img className="photo3" src="images/phonto3.PNG" alt=""/>
         </section>
       </main>
     </div>
